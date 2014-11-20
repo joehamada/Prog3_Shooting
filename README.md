@@ -10,16 +10,16 @@ Unityで作成しています。
 <table border="0" , cellspacing="0">
     <tbody>
         <tr>
-            <th>初投稿</th>
+            <th>’14 11/20(木)</th>
         </tr>
         <tr>
-            <td>・背景配置</td>
+            <td>背景配置</td>
         </tr>
         <tr>
-            <td>・プレイヤー配置</td>
+            <td>プレイヤー配置</td>
         </tr>
         <tr>
-            <td>・上/左からエネミー排出</td>
+            <td>上/左からエネミー排出</td>
         </tr>
     </tbody>
 </table>
