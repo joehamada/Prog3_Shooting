@@ -6,7 +6,7 @@
 授業用の課題で作っているプログラムを置いています。
 Unityで作成しています。
 
-2014年11月20日
+コミット
 <table border="0" , cellspacing="0">
     <tbody>
         <tr>
