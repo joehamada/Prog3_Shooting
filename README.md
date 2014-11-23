@@ -26,3 +26,13 @@ Unityで作成しています。
     </tr>
   </tbody>
 </table>
+
+<table border="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <th>'14 11/23(日)</th>
+    <tr>
+      <td>プレイヤーシップからの弾の発射</td>
+    </tr>
+  </tbody>
+</table>
